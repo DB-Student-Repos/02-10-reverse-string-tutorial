@@ -1,2 +1,3 @@
 def reverse(text):
-    pass
+    rev = text[::-1]
+    return rev
